@@ -1,2 +1,2 @@
 python code about quidditch...
-Add here versn 2.0 system
+Add here version 2.0 system

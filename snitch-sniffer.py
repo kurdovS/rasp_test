@@ -1,2 +1,3 @@
 python code about quidditch...
 Add here version 2.0 system
+And thats for lidar version 3.0 only
